@@ -1,0 +1,82 @@
+.Detail-content {
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    padding: 200px 200px 200px 200px;
+    margin: 0 0 24px 0;
+    
+    .header-location {
+        display: flex;
+        align-items: center;
+        text-align: center;
+        vertical-align: middle;
+        height: 30px;
+        margin: 0 0 8px 0;
+        
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 15px;
+        color: #848c94;
+
+        .country{
+            padding: 6px;
+        }
+        .icon-right{
+            padding: 6px;
+        }
+        .icon-location{
+            padding: 0 0 0 6px;
+        }
+        .city{
+            padding: 6px;
+        }
+    } 
+
+    .header-title {
+        display: flex;
+        align-items: center;
+        text-align: center;
+        vertical-align: middle;
+        height: 40px;
+        
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 40px;
+        color: #343a40;
+    }
+
+    .header-review {
+        display: flex;
+        align-items: center;
+        text-align: center;
+        vertical-align: middle;
+        height: 13px;
+        margin: 15px 0 0 0;
+        
+        line-height: 15px;
+
+        .star {
+            width: 60px;
+            font-size: 10px;
+            color: #eb1749;
+        }
+        .score {
+            width: 20px;
+            font-size: 14px;
+            font-weight: 600;
+            color: #343a40;
+        }
+        .count {
+            width: 40px;
+            font-size: 14px;
+            font-weight: 600;
+            color: #848c94;
+        }
+        .icon-right{
+            padding: 1px 0 0 0;
+            font-size: 11px;
+            font-weight: 600;
+            color: #848c94;
+        }
+    }
+}
