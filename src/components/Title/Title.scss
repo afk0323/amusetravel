@@ -1,9 +1,9 @@
 .Detail-title {
     display: flex;
     flex-direction: column;
-    padding: 200px;
+    padding: 200px 200px 50px 200px;
     
-    .header-location {
+    .location {
         display: flex;
         align-items: center;
         text-align: center;
@@ -29,7 +29,7 @@
         }
     } 
 
-    .header-title {
+    .title {
         display: flex;
         align-items: center;
         text-align: center;
@@ -41,7 +41,7 @@
         color: #343a40;
     }
 
-    .header-review {
+    .review {
         display: flex;
         align-items: center;
         text-align: center;
