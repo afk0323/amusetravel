@@ -1,0 +1,20 @@
+.product-information {
+    height: 246px;
+    width: 700px;
+    padding: 32px 0 32px 0;
+    margin-left: 200px;
+    position: relative;
+    top: 130px;
+    border-top: 1px solid #CED4DA;
+
+    .information-title {
+        margin: 0;
+        font-size: 22px;
+        font-weight: 700;
+    }
+
+    h3 {
+        font-size: 17px;
+        font-weight: 700;
+    }
+}
