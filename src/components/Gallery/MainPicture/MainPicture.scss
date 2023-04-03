@@ -1,0 +1,16 @@
+.MainPicture {
+    display: flex;
+    margin-right: 39%;
+    margin-left: 13%;
+    padding: 2% 1%;
+
+    .image {
+        height: 450px;
+        width: 700px;
+        object-fit: cover;
+
+        &:hover {
+            opacity: 0.9;
+        }
+    }
+}
