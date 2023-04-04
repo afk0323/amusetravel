@@ -6,6 +6,8 @@ import Gallery from '../../components/Gallery/Gallery';
 import ProductIntro from '../../components/ProductIntro/ProductIntro';
 import ProductInfo from '../../components/ProductInfo/ProductInfo';
 import CourseIntro from '../../components/CourseIntro/CourseIntro';
+import UseInfo from '../../components/UseInfo/UseInfo';
+import CancelRefund from '../../components/CancelRefund/CancelRefund';
 
 function Detail() {
   return (
@@ -16,6 +18,8 @@ function Detail() {
       <ProductIntro />
       <ProductInfo />
       <CourseIntro />
+      <UseInfo />
+      <CancelRefund />
     </div>
   );
 }

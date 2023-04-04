@@ -50,7 +50,7 @@ function CourseIntro() {
       <CourseIntroDetail
         title="3일차. 도두동 무지개 해안도로"
         time="30분 소요"
-        content={'파란 제주바다에 알록달록 무지개를 넣은듯한 느낌을 주는 해안도로입니다.\n많은 관광객들이 사진명소로 부르고 있는 장소에서 예쁜 추억을 남겨봐요!\n'}
+        content={'파란 제주바다에 알록달록 무지개를 넣은듯한 느낌을 주는 해안도로입니다.\n많은 관광객들이 사진명소로 부르고 있는 장소에서 예쁜 추억을 남겨봐요!'}
         imageSrc="images/day3-1.png"
       />
       <CourseIntroDetail
