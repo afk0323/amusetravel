@@ -7,11 +7,11 @@ function ProductInfo() {
       <p className="information-title">상품 정보</p>
       <div className="include-info">
         <h3>포함 사항</h3>
-        <p>차량지원, 기사/가이드, 추천 코스</p>
+        <p>현지 인솔, 아이돌봄 서비스, 입장 및 체험비, 식사/숙소, 여행자보험, 픽업서비스</p>
       </div>
       <div className="notinclude-info">
         <h3>불포함 사항</h3>
-        <p>음료, 점심 , 입장료(가고 싶은 곳에 따라 다름)</p>
+        <p>제주도 왕복 항공, 기타 개인 경비</p>
       </div>
     </div>
   );

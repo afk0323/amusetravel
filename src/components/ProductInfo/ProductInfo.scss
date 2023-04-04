@@ -1,20 +1,25 @@
 .product-information {
-    height: 246px;
-    width: 700px;
-    padding: 32px 0 32px 0;
-    margin-left: 200px;
-    position: relative;
-    top: 130px;
-    border-top: 1px solid #CED4DA;
+    margin-right: 40%;
+    margin-left: 14%;
+    padding: 2% 2% 2% 0;
+
+    border-top: 1px solid #E9ECEF;
+    border-bottom: 1px solid #E9ECEF;
+    color: #373A3C;
 
     .information-title {
         margin: 0;
-        font-size: 22px;
+        font-size: 20px;
         font-weight: 700;
     }
 
     h3 {
-        font-size: 17px;
+        font-size: 15px;
         font-weight: 700;
+    }
+
+    p {
+        font-weight: 400;
+        font-size: 14px;
     }
 }
