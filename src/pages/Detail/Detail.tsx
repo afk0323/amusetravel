@@ -9,6 +9,8 @@ import CourseIntro from '../../components/CourseIntro/CourseIntro';
 import UseInfo from '../../components/UseInfo/UseInfo';
 import CancelRefund from '../../components/CancelRefund/CancelRefund';
 import Manager from '../../components/ Manager/Manager';
+import ReviewPicture from '../../components/ReviewPicture/ReviewPicture';
+import Review from '../../components/Review/Review';
 
 function Detail() {
   return (
@@ -22,6 +24,8 @@ function Detail() {
       <UseInfo />
       <CancelRefund />
       <Manager />
+      <ReviewPicture />
+      <Review />
     </div>
   );
 }
