@@ -11,13 +11,17 @@ import CancelRefund from '../../components/CancelRefund/CancelRefund';
 import Manager from '../../components/ Manager/Manager';
 import ReviewPicture from '../../components/ReviewPicture/ReviewPicture';
 import Review from '../../components/Review/Review';
+import Reservation from '../../components/Reservation/Reservation';
+import TicketSelect from '../../components/TicketSelect/TicketSelect';
 
 function Detail() {
   return (
     <div className="Detail">
+      <Reservation />
       <Title />
       <IconInfo />
       <Gallery />
+      <TicketSelect />
       <ProductIntro />
       <ProductInfo />
       <CourseIntro />
