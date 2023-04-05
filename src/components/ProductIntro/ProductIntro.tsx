@@ -5,7 +5,7 @@ import MoreBtn from '../MoreBtn/MoreBtn';
 function ProductIntro() {
   return (
     <div className="product-introduction">
-      <p className="introduction-title">센스 넘치는 여자 제주 토박이가 만들어드리는 당신만을 위한 하루⭐</p>
+      <p className="introduction-title">놀면서 쉬면서 즐겨보는 나의 제주 ⭐</p>
       <p className="introduction-content">
         “제주도, 혼자라고 외로워 하지말아요” 1:1 투어는 이런 부분을 해결해드립니다!
         <br />
