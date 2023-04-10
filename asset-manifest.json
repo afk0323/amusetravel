@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/amusetravel/static/css/main.e2bdd0c5.css",
-    "main.js": "/amusetravel/static/js/main.fe1b1a66.js",
-    "static/js/787.f18f775d.chunk.js": "/amusetravel/static/js/787.f18f775d.chunk.js",
+    "main.css": "/amusetravel/static/css/main.0dd1f223.css",
+    "main.js": "/amusetravel/static/js/main.f59ac405.js",
+    "static/js/787.7fd1cc0a.chunk.js": "/amusetravel/static/js/787.7fd1cc0a.chunk.js",
     "index.html": "/amusetravel/index.html",
-    "main.e2bdd0c5.css.map": "/amusetravel/static/css/main.e2bdd0c5.css.map",
-    "main.fe1b1a66.js.map": "/amusetravel/static/js/main.fe1b1a66.js.map",
-    "787.f18f775d.chunk.js.map": "/amusetravel/static/js/787.f18f775d.chunk.js.map"
+    "main.0dd1f223.css.map": "/amusetravel/static/css/main.0dd1f223.css.map",
+    "main.f59ac405.js.map": "/amusetravel/static/js/main.f59ac405.js.map",
+    "787.7fd1cc0a.chunk.js.map": "/amusetravel/static/js/787.7fd1cc0a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2bdd0c5.css",
-    "static/js/main.fe1b1a66.js"
+    "static/css/main.0dd1f223.css",
+    "static/js/main.f59ac405.js"
   ]
 }
