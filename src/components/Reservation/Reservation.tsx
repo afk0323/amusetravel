@@ -34,7 +34,7 @@ function Reservation() {
         </div>
         {/* 위시리스트에 담은 사람 수 div */}
         <div className="wish-people">
-          <p>1391명이 이 상품을 위시리스트에 담았습니다</p>
+          <p>102명이 이 상품을 위시리스트에 담았습니다</p>
         </div>
       </div>
       {/* 담당자, 문의하기 div */}

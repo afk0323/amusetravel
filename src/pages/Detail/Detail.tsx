@@ -23,8 +23,8 @@ function Detail() {
       <Gallery />
       <TicketSelect />
       <ProductIntro />
-      <ProductInfo />
       <CourseIntro />
+      <ProductInfo />
       <UseInfo />
       <CancelRefund />
       <Manager />
